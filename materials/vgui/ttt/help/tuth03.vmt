@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+ "$basetexture" "vgui/ttt/help/tuth03"
+ "$vertexcolor" 1
+ "$vertexalpha" 1
+}
